@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FoodCartApp_React/static/css/main.6db51f48.css",
+    "main.js": "/FoodCartApp_React/static/js/main.22983c9a.js",
+    "static/media/sushi.webp": "/FoodCartApp_React/static/media/sushi.7b0f2830913a43ed2d58.webp",
+    "index.html": "/FoodCartApp_React/index.html",
+    "main.6db51f48.css.map": "/FoodCartApp_React/static/css/main.6db51f48.css.map",
+    "main.22983c9a.js.map": "/FoodCartApp_React/static/js/main.22983c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db51f48.css",
+    "static/js/main.22983c9a.js"
+  ]
+}
